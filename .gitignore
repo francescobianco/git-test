@@ -3,3 +3,7 @@ file_segreti/
 *.txt
 
 !lib/
+
+vendor/
+
+
